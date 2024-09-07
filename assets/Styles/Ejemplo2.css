@@ -1,0 +1,17 @@
+:root{
+    --Color-LetterLogotipo: #00d0ff;
+    --Color-Logotipo: rgb(0, 166, 255);
+    --Color-Letters-Main: rgb(183, 183, 183);
+    --Color-Footer-Small-SchoolOfCode: #00d0ff;
+    --Color-Footer-Small-CopyRight: rgb(0, 166, 255);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: "DM Sans", cursive;
+}
+
